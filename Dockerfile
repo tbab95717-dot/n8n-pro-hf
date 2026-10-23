@@ -1,4 +1,4 @@
-FROM n8nio/n8n:2.43.4
+FROM n8nio/n8n:2.43.5
 ENV N8N_PORT=7860
 ENV N8N_PROTOCOL=https
 ENV GENERIC_TIMEZONE=Africa/Casablanca
